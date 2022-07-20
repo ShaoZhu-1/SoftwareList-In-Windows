@@ -19,7 +19,7 @@
 
 - [知云文献翻译、Xtranslator](http://www.zhiyunwenxian.cn/)
 
-- [vscode（又是下载奇慢，即使挂梯子）](https://code.visualstudio.com/Download#)
+- [vscode（有是下载奇慢，即使挂梯子）](https://code.visualstudio.com/Download#)
 
 - [Xmind](https://www.xmind.cn/download/)
 
