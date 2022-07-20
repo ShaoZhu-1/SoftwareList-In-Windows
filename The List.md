@@ -8,7 +8,7 @@
 
 - [清华镜像](https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/)
 
--[ RStudio（加载有时慢）](https://www.rstudio.com/products/rstudio/download/#download)
+- [RStudio（加载有时慢）](https://www.rstudio.com/products/rstudio/download/#download)
 
 - [R（南京镜像）](https://mirrors.nju.edu.cn/CRAN/bin/windows/)
 
