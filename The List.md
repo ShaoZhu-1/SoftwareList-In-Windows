@@ -1,7 +1,5 @@
 # 安装系统之后必备的软件清单
 
-- [科学上网](https://www.iyio.net/)
-
 - [potplayer：国际版（不加梯子访问慢）【64bit】](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
 
 - [格式工厂（下载时注意别多勾选了xx杀毒软件）](http://down.pcgeshi.com/FormatFactory_setup.exe)
